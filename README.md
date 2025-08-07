@@ -2,13 +2,6 @@
 
 A Python application that uses a state-of-the-art Transformer model from Hugging Face to perform extractive question answering. The user provides a block of text (context) and can then ask questions to receive answers extracted directly from that text.
 
-## Demo
-
-*(This is a great place to add a GIF of your terminal session running the app!)*
-
-![Demo GIF](link_to_your_gif.gif)
-
----
 
 ## Features
 
